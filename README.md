@@ -5,4 +5,4 @@ The linked list was declared prior to my involvement, along with the main test m
 
 The purpose of this heap was not for implementation in any particular project, but instead was used to illustrate a different method of implementing a binary heap using linked lists, which have a broad range of applications for storage and sorting algorithms.
 
-An example of a Binary Heap can be seen in and my code can be seen in /
+An example of a Binary Heap can be seen in /Binary_Heap_Image.png and my code can be seen in /binary_heap_file.java
